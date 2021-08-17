@@ -2,7 +2,7 @@ from pygame.locals import *
 import pygame
 import pylab as pl
 
-### Implementation of Classes and Functions for FA : Location, Ring, Fighter, Fight
+### Implementation of Classes and Functions : Location, Ring, Fighter, Fight
 
 class Location():
 
