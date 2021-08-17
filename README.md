@@ -1,2 +1,2 @@
-# FA-Probabilities
-Statistical Model for MMA Fights - Significant Strikes
+# Fight Simulation
+Statistical Model for MMA Fights - First Prototype
